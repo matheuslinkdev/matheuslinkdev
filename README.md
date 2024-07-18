@@ -29,10 +29,13 @@ Sou Desenvolvedor, com foco no Front End, mas também construo algumas coisas no
 
 ### Skills:
 - 📋 Linguagens de Programação:
-JavaScript, Python Basics
+JavaScript, TypeScript
 
 - 📋 Desenvolvimento Front End:
 React JS, Next JS, HTML, CSS, SCSS
+
+- 📋 Desenvolvimento Back End:
+Node JS
 
 - 📋 Mobile:
 React Native, Expo
@@ -51,6 +54,8 @@ MongoDB, SQLite
 
 💬 Me pergunte sobre qualquer um desses assuntos que poderei falar por horas com você:😉
 - Tecnologia
+- Formula 1
+- Futebol
 - VideoGames
 - Natureza
 - Desenvolvimento Pessoal
@@ -89,10 +94,13 @@ I am a Developer focused on Front End, but I also build some things in Back End 
 
 ### Skills:
 - 📋 Programming Languages:
-JavaScript, Python Basics
+JavaScript, TypeScript
 
 - 📋 Frontend Development:
 React JS, Next JS, HTML, CSS, SCSS
+
+- 📋 Backend:
+Node JS
 
 - 📋 Mobile:
 React Native, Expo
@@ -111,6 +119,8 @@ MongoDB, SQLite
 
 💬 Ask me about any of these topics, and I can talk for hours with you:😉
 - Technology
+- Formula One
+- Football
 - Video Games
 - Nature
 - Personal Development
