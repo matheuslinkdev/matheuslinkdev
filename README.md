@@ -1,17 +1,118 @@
-<h1 align="center">Olá 👋, me chamo Matheus Link</h1>
-<h3 align="center">Sou Desenvolvedor Full-Stack</h3>
+<img src="https://static.significados.com.br/flags/br.svg" alt="Description" width="110" height="auto"/>
 
-- 🌱 Atualmente estudo **Node Js, React e MongoDB**
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=33D210&width=435&lines=E+a%C3%AD%2C+Matheus+Link+aqui)](https://git.io/typing-svg)
 
-- 👨‍💻 Dê uma olhada no meu portfólio: [https://matheuslinkportfolio.vercel.app](https://matheuslinkportfolio.vercel.app)
+<h3 align="left">Sobre Mim:</h3>
 
-- 📫Me envie um email: **matheuslink.dev@gmail.com**
+Sou Desenvolvedor, com foco no Front End, mas também construo algumas coisas no Back End e no Mobile, curso Ciências da Computação e busco a cada dia ser uma pessoa melhor, um desenvolvedor melhor, e construir meu sucesso.
 
-<h3 align="left">Minhas principais redes sociais:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/matheus link" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="matheus link" height="30" width="40" /></a>
-<a href="https://instagram.com/matheus._.link" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="matheus._.link" height="30" width="40" /></a>
-</p>
+🔭 Atualmente estou construindo o projeto brnetwork, se trata de uma rede de eventos de tecnologia. 😉
+
+👯 Busco minha primeira oportunidade no mercado, como estagiário, também busco oportunidades como freelancer econtribuições em projetos open-source.
+
+🌱 Atualmente estou focado no estudo e uso de React, React Native e TypeScript.
+
 
 <h3 align="left">Tecnologias que domino:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+<a href="https://freeimage.host/i/dC10y3N"><img src="https://iili.io/dC10y3N.md.png" alt="dC10y3N.md.png" border="0"></a>
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+<h3 align="left">🔍Me encontre:</h3>
+
+- <a href="https://matheuslinkportfolio.vercel.app" target="_blank">Meu Portfolio</a>
+- <a href="https://www.linkedin.com/in/matheus-link-21b3a4265/" target="_blank">LinkedIn</a>
+
+❌❌ Não Possuo outras Redes Sociais ❌❌
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+### Skills:
+- 📋 Linguagens de Programação:
+JavaScript, Python Basics
+
+- 📋 Desenvolvimento Front End:
+React JS, Next JS, HTML, CSS, SCSS
+
+- 📋 Mobile:
+React Native, Expo
+
+- ☁️ Cloud:
+Firebase
+
+- ♾️ DevOps:
+Git, GitHub
+
+- 💾 Banco de Dados:
+MongoDB, SQLite
+
+<h3 align="left">Status do GitHub:</h3>
+<img src="https://streak-stats.demolab.com/?user=matheuslinkdev"/>
+
+💬 Me pergunte sobre qualquer um desses assuntos que poderei falar por horas com você:😉
+- Tecnologia
+- VideoGames
+- Natureza
+- Desenvolvimento Pessoal
+- Psicologia
+- Sobre o mundo no geral
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+<img src="https://static.significados.com.br/flags/gb.svg" alt="Description" width="110" height="auto"/>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=33D210&width=435&lines=Hello%2C+I+am+Matheus+Link)](https://git.io/typing-svg)
+
+### About Me:
+
+I am a Developer focused on Front End, but I also build some things in Back End and Mobile. I am studying Computer Science and striving every day to be a better person, a better developer, and to build my success.
+
+🔭 I am currently building the brnetwork project, a network of technology events. 😉
+
+👯 I am looking for my first opportunity in the market as an intern. I am also seeking freelance opportunities and contributing to open-source projects.
+
+🌱 I am currently focused on studying and using React, React Native, and TypeScript.
+
+### Technologies I Master:
+[![Technologies I Master](https://iili.io/dC10y3N.md.png)](https://freeimage.host/i/dC10y3N)
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+### 🔍Find Me:
+
+- [My Portfolio](https://matheuslinkportfolio.vercel.app)
+- [LinkedIn](https://www.linkedin.com/in/matheus-link-21b3a4265/)
+
+❌❌ I do not have other social networks ❌❌
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+### Skills:
+- 📋 Programming Languages:
+JavaScript, Python Basics
+
+- 📋 Frontend Development:
+React JS, Next JS, HTML, CSS, SCSS
+
+- 📋 Mobile:
+React Native, Expo
+
+- ☁️ Cloud:
+Firebase
+
+- ♾️ DevOps:
+Git, GitHub
+
+- 💾 Databases:
+MongoDB, SQLite
+
+### GitHub Status:
+![GitHub Status](https://streak-stats.demolab.com/?user=matheuslinkdev)
+
+💬 Ask me about any of these topics, and I can talk for hours with you:😉
+- Technology
+- Video Games
+- Nature
+- Personal Development
+- Psychology
+- The world in general
