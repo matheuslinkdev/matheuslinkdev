@@ -43,7 +43,7 @@ React Native, Expo
 - ☁️ Cloud:
 Firebase
 
-- ♾️ DevOps:
+- ♾️ Versionamento:
 Git, GitHub
 
 - 💾 Banco de Dados:
@@ -51,16 +51,6 @@ MongoDB, SQLite
 
 <h3 align="left">Status do GitHub:</h3>
 <img src="https://streak-stats.demolab.com/?user=matheuslinkdev"/>
-
-💬 Me pergunte sobre qualquer um desses assuntos que poderei falar por horas com você:😉
-- Tecnologia
-- Formula 1
-- Futebol
-- VideoGames
-- Natureza
-- Desenvolvimento Pessoal
-- Psicologia
-- Sobre o mundo no geral
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -108,7 +98,7 @@ React Native, Expo
 - ☁️ Cloud:
 Firebase
 
-- ♾️ DevOps:
+- ♾️ Version Control:
 Git, GitHub
 
 - 💾 Databases:
@@ -116,13 +106,3 @@ MongoDB, SQLite
 
 ### GitHub Status:
 ![GitHub Status](https://streak-stats.demolab.com/?user=matheuslinkdev)
-
-💬 Ask me about any of these topics, and I can talk for hours with you:😉
-- Technology
-- Formula One
-- Football
-- Video Games
-- Nature
-- Personal Development
-- Psychology
-- The world in general
