@@ -4,23 +4,20 @@
 
 <h3 align="left">Sobre Mim:</h3>
 
-Sou Desenvolvedor, com foco no Front End, mas também construo algumas coisas no Back End e no Mobile, curso Ciências da Computação e busco a cada dia ser uma pessoa melhor, um desenvolvedor melhor, e construir meu sucesso.
+Sou um Desenvolvedor Full-Stack, iniciei no Front-End e atualmente busco expandir meu conhecimento no Desenvolvimento Back-End, curso Ciências da Computação e busco a cada dia ser uma pessoa melhor, um desenvolvedor melhor, e construir meu sucesso.
 
-🔭 Atualmente estou construindo o projeto brnetwork, se trata de uma rede de eventos de tecnologia. 😉
+👯Atualmente busco minha primeira oportunidade no mercado, para isso venho construindo projetos que buscam solucionar algum problema e que tenham alguma utilidade não só para mim, mas para outras pessoas, também atuo como freelancer.
 
-👯 Busco minha primeira oportunidade no mercado, como estagiário, também busco oportunidades como freelancer econtribuições em projetos open-source.
-
-🌱 Atualmente estou focado no estudo e uso de React, React Native e TypeScript.
-
+🌱 Estou focado no estudo e uso de React, TypeScript e Golang.
 
 <h3 align="left">Tecnologias que domino:</h3>
-<a href="https://freeimage.host/i/dC10y3N"><img src="https://iili.io/dC10y3N.md.png" alt="dC10y3N.md.png" border="0"></a>
+<a href='https://postimg.cc/9zTKKkMV' target='_blank'><img src='https://i.postimg.cc/RCbm65x3/Design-sem-nome.png' border='0' alt='Tecnologias que domino'/></a>
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 <h3 align="left">🔍Me encontre:</h3>
 
-- <a href="https://matheuslinkportfolio.vercel.app" target="_blank">Meu Portfolio</a>
+- <a href="https://matheuslink.vercel.app" target="_blank">Site pessoal</a>
 - <a href="https://www.linkedin.com/in/matheus-link-21b3a4265/" target="_blank">LinkedIn</a>
 
 ❌❌ Não Possuo outras Redes Sociais ❌❌
@@ -29,16 +26,13 @@ Sou Desenvolvedor, com foco no Front End, mas também construo algumas coisas no
 
 ### Skills:
 - 📋 Linguagens de Programação:
-JavaScript, TypeScript
+JavaScript, TypeScript, Go
 
 - 📋 Desenvolvimento Front End:
-React JS, Next JS, HTML, CSS, SCSS
+React JS, Next JS, HTML, CSS, Tailwind
 
 - 📋 Desenvolvimento Back End:
-Node JS
-
-- 📋 Mobile:
-React Native, Expo
+Node JS, Go
 
 - ☁️ Cloud:
 Firebase
@@ -47,7 +41,7 @@ Firebase
 Git, GitHub
 
 - 💾 Banco de Dados:
-MongoDB, SQLite
+MongoDB, PostegreSQL
 
 <h3 align="left">Status do GitHub:</h3>
 <img src="https://streak-stats.demolab.com/?user=matheuslinkdev"/>
@@ -60,22 +54,20 @@ MongoDB, SQLite
 
 ### About Me:
 
-I am a Developer focused on Front End, but I also build some things in Back End and Mobile. I am studying Computer Science and striving every day to be a better person, a better developer, and to build my success.
+I am a Full-Stack Developer, started in Front-End, now focusing in Back-end. I am studying Computer Science and striving every day to be a better person, a better developer, and to build my success.
 
-🔭 I am currently building the brnetwork project, a network of technology events. 😉
+👯 I am looking for my first opportunity in the market. For this i'm working in real projects to help other people and that can solve a problem.
 
-👯 I am looking for my first opportunity in the market as an intern. I am also seeking freelance opportunities and contributing to open-source projects.
-
-🌱 I am currently focused on studying and using React, React Native, and TypeScript.
+🌱 I am currently focused on studying and using React, TypeScript and Go.
 
 ### Technologies I Master:
-[![Technologies I Master](https://iili.io/dC10y3N.md.png)](https://freeimage.host/i/dC10y3N)
+<a href='https://postimg.cc/9zTKKkMV' target='_blank'><img src='https://i.postimg.cc/RCbm65x3/Design-sem-nome.png' border='0' alt='Technologies i master'/></a>
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ### 🔍Find Me:
 
-- [My Portfolio](https://matheuslinkportfolio.vercel.app)
+- [Personal WebSite](https://matheuslink.vercel.app)
 - [LinkedIn](https://www.linkedin.com/in/matheus-link-21b3a4265/)
 
 ❌❌ I do not have other social networks ❌❌
@@ -84,16 +76,13 @@ I am a Developer focused on Front End, but I also build some things in Back End 
 
 ### Skills:
 - 📋 Programming Languages:
-JavaScript, TypeScript
+JavaScript, TypeScript, Go
 
 - 📋 Frontend Development:
-React JS, Next JS, HTML, CSS, SCSS
+React JS, Next JS, HTML, CSS, Tailwind
 
 - 📋 Backend:
-Node JS
-
-- 📋 Mobile:
-React Native, Expo
+Node JS, Go
 
 - ☁️ Cloud:
 Firebase
@@ -102,7 +91,7 @@ Firebase
 Git, GitHub
 
 - 💾 Databases:
-MongoDB, SQLite
+MongoDB, PostegreSQL
 
 ### GitHub Status:
 ![GitHub Status](https://streak-stats.demolab.com/?user=matheuslinkdev)
