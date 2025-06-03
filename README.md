@@ -2,10 +2,16 @@
 
 ### About Me:
 
-Full-Stack Dev, Mobile Development intern, working with React Native.
+Full-Stack Dev, Web Development intern on Argo Navigation.
 
 ### Technologies I work with:
-<a href='https://postimg.cc/cgSnV4bs' target='_blank'><img src='https://i.postimg.cc/MTcmfn0j/Design-sem-nome-3.png' alt='Technologies I master'/></a>
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
+![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37)
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -13,8 +19,6 @@ Full-Stack Dev, Mobile Development intern, working with React Native.
 
 - <a href="https://matheuslink.com" target="_blank">www.matheuslink.com</a>
 - <a href="https://www.linkedin.com/in/matheus-link-21b3a4265/?locale=en_US" target="_blank">LinkedIn</a>
-
-❌❌ I do not have other social networks ❌❌
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
